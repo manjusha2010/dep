@@ -1,0 +1,5 @@
+{
+    "PACKAGES": "nginx curl python3",
+    "CONTAINER_PORTS": "80 443",
+    "BASE_IMAGE": "ubuntu:22.04"
+}
